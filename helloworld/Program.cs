@@ -2,8 +2,10 @@
 Console.WriteLine("Hello, Oscar!");
 
 
-string firstFriend = "      Bill     ";
-firstFriend = firstFriend.TrimStart();
+string firstFriend = "Bill";
+string secondFriend = "John";
+string friends = $"Hello, {firstFriend} and {secondFriend}!";
 
-string secondFriend = "     John     ";
-Console.WriteLine($"Hello, {firstFriend} and {secondFriend.Trim()}!");
+Console.WriteLine(friends);
+friends = friends.Replace("John", "Oscar");
+Console.WriteLine(friends);

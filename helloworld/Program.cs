@@ -6,6 +6,7 @@ string firstFriend = "Bill";
 string secondFriend = "John";
 string friends = $"Hello, {firstFriend} and {secondFriend}!";
 
-Console.WriteLine(friends);
-friends = friends.Replace("John", "Oscar");
-Console.WriteLine(friends);
+Console.WriteLine(friends.Contains("Bill"));
+Console.WriteLine(friends.Length);
+Console.WriteLine(friends.ToUpper());
+Console.WriteLine(friends.StartsWith("Bill"));

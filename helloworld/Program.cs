@@ -2,7 +2,8 @@
 Console.WriteLine("Hello, Oscar!");
 
 
-string firstFriend = "Bill";
-string secondFriend = "John";
+string firstFriend = "      Bill     ";
+firstFriend = firstFriend.TrimStart();
 
-Console.WriteLine($"Hello, {firstFriend} and {secondFriend}!");
+string secondFriend = "     John     ";
+Console.WriteLine($"Hello, {firstFriend} and {secondFriend.Trim()}!");

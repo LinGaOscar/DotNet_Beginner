@@ -25,3 +25,10 @@ var f5 = 0f;
 var dm5 = 5m;
 var cc = 'b';
 var s3 = "string";
+
+//operators
+
+var r1 = (d + f) * 2 / 4;
+var r2 = 14 / 3;
+var r6 = s1 + s2;
+Console.WriteLine($"s1 + s2 = {r6}");

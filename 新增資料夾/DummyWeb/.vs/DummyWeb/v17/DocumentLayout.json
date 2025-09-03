@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\DotNet_Beginner\\MyFirstWebApp\\DummyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7927E5D-0A36-4D86-B87F-16BA860EDFBC}|DummyWeb.csproj|d:\\github\\dotnet_beginner\\myfirstwebapp\\dummyweb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7927E5D-0A36-4D86-B87F-16BA860EDFBC}|DummyWeb.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\GitHub\\DotNet_Beginner\\MyFirstWebApp\\DummyWeb\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\GitHub\\DotNet_Beginner\\MyFirstWebApp\\DummyWeb\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-24T16:03:35.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
